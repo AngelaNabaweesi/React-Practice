@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Gotham';
+  src: 
+       url('../public/fonts/Gotham-Font/Gotham-Light.otf') format('truetype'),
+       url('../public/fonts/Gotham-Font/GothamMediumItalic.ttf') format('truetype');
+}
+
+body {
+  margin: 20px 500px 20px 300px;
+  font-family:'Gotham';
+  text-align: center;
+  
+}
+
+

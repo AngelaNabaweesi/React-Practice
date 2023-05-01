@@ -1,0 +1,23 @@
+/* .App {
+  text-align: center;
+} */
+p{
+
+  font-size: 20px;
+  color: #555555;
+}
+.h1heading
+{
+  font-size: 15px;
+  font-weight: bold;
+}
+h1 
+{
+  color: grey;
+  font-weight: bold;
+  text-align: center;
+}
+.div2
+{
+  text-align: left;
+}
