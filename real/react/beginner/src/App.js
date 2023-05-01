@@ -1,10 +1,10 @@
 import './App.css';
-import Header from './lyrics/Header';
+import LyricsPage from './lyrics/LyricsPage';
 
 
 function App() {
   return (
-    <Header />
+    <LyricsPage />
   );
 }
 

@@ -1,4 +1,4 @@
-function Header(){
+function LyricsPage(){
     return (
       <div>
         <h1>So Will I (100 Billion X)</h1><br />
@@ -81,4 +81,4 @@ function Header(){
       </div>
     )
   }
-  export default Header
+  export default LyricsPage
